@@ -1,4 +1,4 @@
-module vproto
+module herolib_gitea
 
 import sub1
 
